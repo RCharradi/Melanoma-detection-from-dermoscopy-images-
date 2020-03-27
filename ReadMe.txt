@@ -1,1 +1,1 @@
-Please put all the images and theirs segmentations in .images/im
+Please put all the images and their segmentations in .images/im
